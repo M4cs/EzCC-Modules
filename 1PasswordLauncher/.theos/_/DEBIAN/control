@@ -1,0 +1,11 @@
+Package: com.auxilium.onepasswordlauncher
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: 1Password Launcher for your CC.
+Name: 1PasswordLauncher
+Author: Auxilium
+Version: 0.1-beta-1+debug
+Installed-Size: 140

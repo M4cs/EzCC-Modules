@@ -1,0 +1,11 @@
+Package: com.auxilium.dashlanelauncher
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: Dashlane Launcher for your CC.
+Name: DashlaneLauncher
+Author: Auxilium
+Version: 0.1-beta-1+debug
+Installed-Size: 140

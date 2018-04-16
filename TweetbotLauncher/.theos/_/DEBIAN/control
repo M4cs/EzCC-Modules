@@ -1,0 +1,11 @@
+Package: com.auxilium.tweetbotlauncher
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: Tweetbot Launcher for your CC.
+Name: TweetbotLauncher
+Author: Auxilium
+Version: 0.1-beta-1+debug
+Installed-Size: 140

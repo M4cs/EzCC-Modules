@@ -1,0 +1,11 @@
+Package: com.auxilium.telegramlauncher
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: Telegram Launcher for your CC.
+Name: TelegramLauncher
+Author: Auxilium
+Version: 0.1-beta-1+debug
+Installed-Size: 140

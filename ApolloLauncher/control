@@ -1,0 +1,10 @@
+Package: com.auxilium.apollolauncher
+Version: 0.1-beta
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: Apollo Launcher for your CC.
+Name: ApolloLauncher
+Author: Auxilium

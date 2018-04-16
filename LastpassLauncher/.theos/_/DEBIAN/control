@@ -1,0 +1,11 @@
+Package: com.auxilium.lastpasslauncher
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: Lastpass Launcher for your CC.
+Name: LastpassLauncher
+Author: Auxilium
+Version: 0.1-beta-1+debug
+Installed-Size: 136

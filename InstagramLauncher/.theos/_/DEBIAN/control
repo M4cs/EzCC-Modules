@@ -1,0 +1,11 @@
+Package: com.auxilium.instagramlauncher
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: Instagram Launcher for your CC.
+Name: InstagramLauncher
+Author: Auxilium
+Version: 0.1-beta-1+debug
+Installed-Size: 140

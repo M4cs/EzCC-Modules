@@ -1,0 +1,8 @@
+Package: com.ezcc.control-center.examplelaunchmodule
+Name: ExampleLaunchModule
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A Control Center Module to launch an app
+Author: Simalary (Chris Harper), 
+Section: Control Center (Modules)
+Maintainer: Simalary (Chris Harper), M4cs Development Team

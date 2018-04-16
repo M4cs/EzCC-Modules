@@ -1,0 +1,9 @@
+Package: com.auxilium.spotifylauncher
+Version: 0.1-beta
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Spotify Launcher for your CC.
+Name: SpotifyLauncher
+Author: Auxilium

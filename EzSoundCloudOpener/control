@@ -1,0 +1,9 @@
+Package: com.auxilium.ezsoundcloudopener
+Name: EzSoundcloudOpener
+Depends: mobilesubstrate, com.ioscreatix.silo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The tweak that lets you open SoundCloud from the ControlCenter
+Maintainer: Shady
+Author: Shady
+Section: Tweaks

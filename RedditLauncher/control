@@ -1,0 +1,10 @@
+Package: com.auxilium.redditlauncher
+Version: 0.1-beta
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Description: Reddit Launcher for your CC.
+Name: RedditLauncher
+Author: Auxilium
